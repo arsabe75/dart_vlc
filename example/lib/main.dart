@@ -116,6 +116,7 @@ class DartVLCExampleState extends State<DartVLCExample> {
                         volumeThumbColor: Colors.blue,
                         volumeActiveColor: Colors.blue,
                         showControls: !isPhone,
+                        showFullscreenButton: true,
                       ),
               ],
             ),
